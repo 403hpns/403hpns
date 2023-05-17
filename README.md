@@ -2,14 +2,24 @@
 
 <p align="center">a passionate self-taught front-end developer from Poland.</p>
 
+
 **Some facts about me:**
 
 - 🥸 I'm 23 years old.
 - 🙂 he / him.
 - 💻 I'm coding in React, NextJS, TypeScript and TalwindCSS.
 - 💡 My current goal: find a job as a programmer and continue development.
-- 😻 Cat lovers. 🐕 Also *dogs*,  🐀 *rats*, 🦊 *foxes* ,  🐼 and *pandas* are in my ❤️.
+- 😻 Cat lovers. 🐕 Also *dogs*,  🐀 *rats*, 🦊 *foxes* ,  🐼 and *pandas*.
 
+
+### 🤝 Get in touch
+------------
+Feel free to send me a message.
+<p align="center">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="" /> <img src="https://dcbadge.vercel.app/api/shield/849795406573469716?compact=true" />
+
+<p align="center">✉️ My e-mail: dev.403hpns@pm.me</p>
+</p>
 
 
 ## 🔧 Have experience in
