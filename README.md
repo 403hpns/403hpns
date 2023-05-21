@@ -8,12 +8,12 @@
 - 🥸 I'm 23 years old.
 - 🙂 he / him.
 - 💻 I'm coding in React, NextJS, TypeScript and TalwindCSS.
-- 💡 My current goal: find a job as a programmer and continue development.
+- 💡 My current goal: find a job as a programmer. My passion is programming and games, I want to combine both and create games in the future. The first step will be to release my own game and learn ThreeJS for the next, more advanced productions.
 - 😻 Cat lover. 🐕 Also *dogs*,  🐀 *rats*, 🦊 *foxes* ,  🐼 and *pandas*.
 
+‏‏‎ ‎
 
-### 🤝 Get in touch
-------------
+## 🤝 Get in touch
 Feel free to send me a message.
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="" /> <img src="https://dcbadge.vercel.app/api/shield/849795406573469716?compact=true" />
@@ -29,7 +29,7 @@ Feel free to send me a message.
 
 ## 📚 Planned to learn
 
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="" /> PixiJS
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="" /><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> PixiJS
 
 
 
