@@ -8,7 +8,7 @@
 - 🥸 I'm 23 years old.
 - 🙂 he / him.
 - 💻 I'm coding in React, NextJS, TypeScript and TalwindCSS.
-- 💡 My current goal: find a job as a programmer. My passion is programming and games, I want to combine both and create games in the future. The first step will be to release my own game and learn ThreeJS for the next, more advanced productions.
+- 💡 My current goal: find a job as a programmer.
 - 😻 Cat lover. 🐕 Also *dogs*,  🐀 *rats*, 🦊 *foxes* ,  🐼 and *pandas*.
 
 ‏‏‎ ‎
@@ -16,7 +16,8 @@
 ## 🤝 Get in touch
 Feel free to send me a message.
 <p align="center">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> <img src="https://dcbadge.vercel.app/api/shield/849795406573469716?compact=true" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> 403hpns
+<!--   <img src="https://dcbadge.vercel.app/api/shield/849795406573469716?compact=true" /> -->
 
 <p align="center">✉️ My e-mail: dev.403hpns@pm.me</p>
 </p>
