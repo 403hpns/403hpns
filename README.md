@@ -7,7 +7,7 @@
 
 - 🥸 I'm 23 years old.
 - 🙂 he / him.
-- 💻 I'm coding in React, NextJS, TypeScript and TalwindCSS.
+- 💻 I'm coding in React, NextJS, TypeScript and TailwindCSS.
 - 💡 My current goal: find a job as a programmer.
 - 😻 Cat lover. 🐕 Also *dogs*,  🐀 *rats*, 🦊 *foxes* ,  🐼 and *pandas*.
 
