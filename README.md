@@ -5,10 +5,10 @@
 
 **Some facts about me:**
 
-- 🥸 I'm 23 years old.
+- 🥸 I'm 24 years old.
 - 🙂 he / him.
 - 💻 Coding in React, Next.js, TypeScript and TailwindCSS.
-- 💡 My current goal: find a job as a programmer.
+- 💡 My current goal: develop myself.
 - 😻 Cat lover. 🐕 Also *dogs*,  🐀 *rats*, 🦊 *foxes* ,  🐼 and *pandas*.
 
 ‏‏‎ ‎
