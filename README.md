@@ -8,16 +8,16 @@
 - 🥸 I'm 24 years old.
 - 🙂 he / him.
 - 😻 Cat lover. 🐕 Also *dogs*,  🐀 *rats*, 🦊 *foxes* ,  🐼 and *pandas*.
+- 🎲 Enthusiast of role-playing games and Tabletop RPGs.
 
 ‏‏‎ ‎
 
 ## 🤝 Get in touch
 Feel free to send me a message.
 <p align="center">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> 403hpns
-<!--   <img src="https://dcbadge.vercel.app/api/shield/849795406573469716?compact=true" /> -->
 
-<p align="center">✉️ My e-mail: dev.403hpns@pm.me</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/849795406573469716?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/849795406573469716)
+
 </p>
 
 
@@ -30,18 +30,26 @@ Feel free to send me a message.
 
 ## 📚 Planned to learn
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white" alt="Tauri" />
 
 ## 🌐 Check my page
 [https://430hpns.dev](https://403hpns.dev)
 
+## 📈 My stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=403hpns&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=403hpns" />
+</p>
 
 
-
-
-
-
-<h2></h2>
+<h2> </h2>
 <div align="center">
   <img src="https://i.imgur.com/ll2HzoZ.jpg" alt="" />
 </div>
+
+
+
