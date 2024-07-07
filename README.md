@@ -44,7 +44,9 @@ Feel free to send me a message.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=403hpns" />
 </p>
-
+<p align="center">
+    <em>(starting from June 25, 2024 - 4 years after I started programming)</em>
+</p>
 
 <h2> </h2>
 <div align="center">
